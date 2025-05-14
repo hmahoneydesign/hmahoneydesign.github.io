@@ -281,7 +281,7 @@ nav.title-bar
 	display: block;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background-color: #aa7fbc;
+	background-color: #774b89;
 }
 
 nav.title-bar .menu-icon
@@ -324,7 +324,7 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 55px;
+	min-height: 50px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -336,11 +336,11 @@ nav.title-bar .menu-icon
 	margin: 0;
 	z-index: 1;
 	display: block;
-	width: 229px;
-	height: 55px;
+	width: 191px;
+	height: 50px;
 	align-self: center;
-	background: transparent url('Images/Logo.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
+	background: transparent url('Images/logofr.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/logofr.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -1007,7 +1007,7 @@ div.central-dropdown-content > a:hover
 
 .menu-icon-container
 {
-	min-height: 55px;
+	min-height: 50px;
 }
 
 .off-canvas-wrapper-inner .outer-row
@@ -1840,7 +1840,7 @@ h1#results-heading
 
 .featured-snippets-container .micro-response-title a
 {
-	color: #aa7fbc;
+	color: #774b89;
 	text-decoration: underline;
 }
 
@@ -1852,27 +1852,27 @@ h1#results-heading
 
 .featured-snippets-container .micro-response-title a:visited
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 .featured-snippets-container .micro-response-title a:focus
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 .featured-snippets-container .micro-response-title a:hover
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 .featured-snippets-container .micro-response-title a:active
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 .featured-snippets-container .micro-response-url cite
 {
-	color: #aa7fbc;
+	color: #774b89;
 	font-size: 0.9em;
 	font-style: normal;
 }
@@ -1894,7 +1894,7 @@ h1#results-heading
 	border-right: solid 1px #fff0f5;
 	border-top: solid 1px #fff0f5;
 	border-bottom: solid 1px #fff0f5;
-	color: #aa7fbc;
+	color: #774b89;
 	font-size: 1em;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -1930,7 +1930,7 @@ h1#results-heading
 
 #resultList h3.title a
 {
-	color: #aa7fbc;
+	color: #774b89;
 	font-size: 1em;
 }
 
@@ -1942,13 +1942,13 @@ h1#results-heading
 
 #resultList h3.title a:visited
 {
-	color: #aa7fbc;
+	color: #774b89;
 	text-decoration: underline;
 }
 
 #resultList h3.title a:focus
 {
-	color: #aa7fbc;
+	color: #774b89;
 	text-decoration: underline;
 }
 
@@ -1959,13 +1959,13 @@ h1#results-heading
 
 #resultList h3.title a:active
 {
-	color: #aa7fbc;
+	color: #774b89;
 	text-decoration: underline;
 }
 
 #resultList .url cite
 {
-	color: #aa7fbc;
+	color: #774b89;
 	font-size: 0.8em;
 	font-style: normal;
 }
@@ -1997,7 +1997,7 @@ h1#results-heading
 
 .phrase-suggest a
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 .sidenav-container ul ul
