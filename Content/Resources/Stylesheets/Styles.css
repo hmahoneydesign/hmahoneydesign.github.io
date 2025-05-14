@@ -204,7 +204,7 @@ h1
 {
 	font-weight: bold;
 	font-size: 24.0pt;
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 h2
@@ -441,17 +441,17 @@ MadCap|breadcrumbsProxy
 
 a
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 a:link
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 a:visited
 {
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 MadCap|dropDown
@@ -491,7 +491,7 @@ MadCap|expandingHead
 	font-weight: normal;
 	cursor: hand;
 	text-decoration: none;
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 MadCap|xref
@@ -499,7 +499,7 @@ MadCap|xref
 	font-weight: bold;
 	mc-format: '{para}';
 	text-decoration: underline;
-	color: #aa7fbc;
+	color: #774b89;
 }
 
 /* Lists */
@@ -545,7 +545,7 @@ p.frame-footer-text
 
 .page-layout-front-header
 {
-	background-color: #aa7fbc;
+	background-color: #774b89;
 	height: 155px;
 	width: 825px;
 }
@@ -581,13 +581,13 @@ p.frame-footer-text
 
 div.home-footer
 {
-	background-color: #aa7fbc;
+	background-color: #774b89;
 	padding: 2% 5%;
 }
 
 .home-footer-logo
 {
-	background-image: url('../Images/Logo.png');
+	background-image: url('../Images/logofr.png');
 	background-repeat: no-repeat;
 	background-position: right center;
 	width: 400px;

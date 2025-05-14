@@ -7,13 +7,13 @@
 	--Darkest: #000000;
 	--Light: #DADEE1;
 	--HeroImage: url('../Images/Hero-Image.png');
-	--LogoImage: url('../Images/Logo.png');
 	--LogoImagePrint: url('../Images/Logo.svg');
 	--FontFamily: Verdana;
-	--Primary: #aa7fbc;
 	--Secondary: #e4d4e0;
 	--Medium: #ffb6c1;
 	--Dark: #956ea6;
 	--Lightest: #fff0f5;
+	--LogoImage: url('../Images/logofr.png');
+	--Primary: #774b89;
 }
 
